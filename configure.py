@@ -27,7 +27,7 @@ cfg = {'batch_size'    : 128,    # number of examples in a batch
         'height'       : 32,    # height of the 3D volume
         'width'        : 32,    # width of the 3D volume
         'depth'        : 32,    # depth of the 3D volume
-        'nChan'        : 1,     # number of colour channels
+        'nChan'        : 2,     # number of colour channels
         'nClass'       : 10,    # number of classes
         'nTrain'       : 47892, # number of training examples
         'nEval'        : 10896, # number of evaluation examples
